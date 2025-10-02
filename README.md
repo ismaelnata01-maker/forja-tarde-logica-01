@@ -8,3 +8,8 @@ input - leia do portugol br
 
 #git
 git clone "nome do repositorio"
+
+Terminal: Shift + insert (está em cima da tecla delet)
+Alinhar código: Ctrl + Shift + p
+difeerente: !==
+igual: ===
